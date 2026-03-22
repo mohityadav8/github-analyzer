@@ -6,7 +6,7 @@ A tool that analyzes multiple GitHub repositories and generates insights about t
 
 ## Live Demo
 
-🌐 **[Live App →](https://your-app.streamlit.app)** *(replace with your deployed URL)*
+🌐 **[Live App →](https://app-analyzer-gpx5ywrqwhvsfiehvfjkmn.streamlit.app)** 
 
 ## Features
 
